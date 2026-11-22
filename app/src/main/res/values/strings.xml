@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KIYRA</string>
+    <string name="app_tagline">مشغل الفيديو السينمائي الحديث</string>
+
+    <string name="section_featured">المختار للمشاهدة</string>
+    <string name="section_library">مكتبة الفيديوهات</string>
+    <string name="search_hint">ابحث عن فيديو أو مجلد...</string>
+    <string name="videos_count_format">%1$d فيديو</string>
+    <string name="duration_placeholder">00:00</string>
+
+    <string name="permission_required_title">مطلوب إذن الوصول للفيديوهات</string>
+    <string name="permission_required_desc">اسمح للتطبيق بقراءة مقاطع الفيديو من جهازك لعرضها وتشغيلها بسلاسة.</string>
+    <string name="grant_permission">منح الصلاحية</string>
+
+    <string name="empty_videos_title">لا توجد مقاطع فيديو على الجهاز</string>
+    <string name="empty_videos_desc">أضف مقاطع فيديو إلى جهازك أو حدّث القائمة لعرضها هنا.</string>
+    <string name="refresh">تحديث</string>
+
+    <string name="play">تشغيل</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="speed_label">السرعة: %1$s</string>
+    <string name="aspect_fit">ملاءمة</string>
+    <string name="aspect_fill">ملء الشاشة</string>
+    <string name="close_player">إغلاق المشغل</string>
+</resources>

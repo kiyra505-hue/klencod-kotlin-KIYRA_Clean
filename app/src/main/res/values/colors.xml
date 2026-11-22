@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- خلفيات سينمائية داكنة وعميقة -->
+    <color name="bg_obsidian">#080A0F</color>
+    <color name="bg_surface">#10141E</color>
+    <color name="bg_elevated">#171D2B</color>
+    <color name="bg_glass_card">#221B2438</color>
+    <color name="bg_glass_pill">#2E232C42</color>
+
+    <!-- حدود وإضاءات زجاجية -->
+    <color name="glass_border">#38FFFFFF</color>
+    <color name="glass_border_subtle">#1CFFFFFF</color>
+    <color name="glow_cyan">#00E5FF</color>
+    <color name="glow_violet">#7C4DFF</color>
+    <color name="glow_crimson">#FF2E63</color>
+
+    <!-- نصوص واضحة ومريحة للعين -->
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#9AA5B8</color>
+    <color name="text_muted">#64748B</color>
+
+    <!-- عناصر التحكم وشريط التقدم -->
+    <color name="progress_track">#2A3346</color>
+    <color name="scrim_dark">#B8080A0F</color>
+    <color name="scrim_bottom">#E6080A0F</color>
+</resources>
